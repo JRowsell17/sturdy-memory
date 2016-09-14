@@ -1,5 +1,6 @@
 #! /bin/bash
 #Justin Rowsell
+#edit for lab 4
 file = "$1"
 if [$1 -eq 0]
 then 
